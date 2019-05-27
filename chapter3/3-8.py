@@ -1,0 +1,15 @@
+tour=['nanjing','xian','beijing','shanghai','luoyang']
+print(tour)
+print(sorted(tour))
+print(tour)
+print(sorted(tour,reverse=True))
+print(tour)
+tour.reverse()
+print(tour)
+tour.reverse()
+print(tour)
+tour.sort()
+print(tour)
+tour.sort(reverse=True)
+print(tour)
+
